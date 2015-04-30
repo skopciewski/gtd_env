@@ -1,0 +1,7 @@
+calendar = ~/personal/docs/when/calendar
+editor = vim
+paging = 0
+ampm = 0
+monday_first = 1
+past = 0
+neighboring_months = 0
