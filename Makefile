@@ -1,4 +1,4 @@
-LOCAL_DIR := $(HOME)/.local
+LOCAL_DIR := $(HOME)/opt
 
 USER_BIN_DIR := $(HOME)/sbin
 TODO_BIN := $(USER_BIN_DIR)/todo.sh
